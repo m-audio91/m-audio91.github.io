@@ -6,7 +6,7 @@ body {direction: rtl}
 header {width: auto; float: none; position: static;}
 section {width: auto; float: none}
 footer {width: auto; float: none; position: static;}
-.wrapper {width: 80%;}
+.wrapper {width: 60%;}
 @media print, screen and (max-width: 960px) {
   div.wrapper {width: 90%}
   header {padding-right: 0}
