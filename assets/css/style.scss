@@ -3,3 +3,6 @@
 
 @import "{{ site.theme }}";
 body {direction: rtl}
+header {width: auto; float: none; position: static;}
+section {width: auto; float: none}
+footer {width: auto; float: none; position: static;}
